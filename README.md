@@ -14,7 +14,7 @@
 
 ## What is it?
 
-Searchable Document store is a system to store and querey documents. 
+Searchable Document store is a system to store and query documents. 
 
 ## Features
 
