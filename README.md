@@ -34,8 +34,16 @@ The class DocumentPersistanceManager uses the Google [Gson](https://javadoc.io/d
 
 ### BTree
 
+Implemented a BTree data structure to store the documents using the URI as their key. The BTree interface also supports moving a given document to disk. 
+
 ### MinHeap
+
+Implemented a MinHeap data structure that keeps the lowest valued object, in thsi case last used time of a document, at the top of the heap. Allows for the removal of a document from memory to make space for more recently used documents. 
 
 ### Stack
 
+Implemented a classic stack to store all commands to suport an undo finction. Undo takes the first item of the stack and reverses the action. 
+
 ### Trie
+
+Implemented a Trie to have fast word search. Mapped the words to the URI(s) of the document(s) that they apear in.
