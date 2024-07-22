@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 package edu.yu.cs.com1320.project;
 
 import java.net.URI;
@@ -12,7 +11,7 @@ public class Utils {
         return Math.abs(result);
     }
 
-=======
+
 package edu.yu.cs.com1320.project;
 
 import java.net.URI;
@@ -25,6 +24,4 @@ public class Utils {
         result = 31 * result + Arrays.hashCode(binaryData);
         return Math.abs(result);
     }
-
->>>>>>> fd77063a3d4afb76b6777a38f3f83134aeed8ddf
 }
