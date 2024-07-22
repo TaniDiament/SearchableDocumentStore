@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 package edu.yu.cs.com1320.project;
 
 import java.util.*;
@@ -91,7 +90,7 @@ public class CommandSet<Target> extends AbstractSet<GenericCommand<Target>> impl
     public int size() {
         return this.genericCommands.size();
     }
-=======
+
 package edu.yu.cs.com1320.project;
 
 import java.util.*;
@@ -184,5 +183,4 @@ public class CommandSet<Target> extends AbstractSet<GenericCommand<Target>> impl
     public int size() {
         return this.genericCommands.size();
     }
->>>>>>> fd77063a3d4afb76b6777a38f3f83134aeed8ddf
 }
