@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import edu.yu.cs.com1320.project.BTree;
 import edu.yu.cs.com1320.project.MinHeap;
 import edu.yu.cs.com1320.project.Trie;
@@ -1223,7 +1223,7 @@ public class TestStage5 {
     }
 
 }
-=======
+
 import edu.yu.cs.com1320.project.BTree;
 import edu.yu.cs.com1320.project.MinHeap;
 import edu.yu.cs.com1320.project.Trie;
