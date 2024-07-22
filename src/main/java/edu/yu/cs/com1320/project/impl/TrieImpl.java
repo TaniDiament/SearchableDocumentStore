@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 package edu.yu.cs.com1320.project.impl;
 import edu.yu.cs.com1320.project.Trie;
 import java.util.*;
@@ -289,7 +288,7 @@ public class TrieImpl<Value> implements Trie<Value> {
         }
     }
 }
-=======
+
 package edu.yu.cs.com1320.project.impl;
 import edu.yu.cs.com1320.project.Trie;
 import java.util.*;
@@ -580,4 +579,3 @@ public class TrieImpl<Value> implements Trie<Value> {
         }
     }
 }
->>>>>>> fd77063a3d4afb76b6777a38f3f83134aeed8ddf
