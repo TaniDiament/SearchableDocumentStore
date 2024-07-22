@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 package edu.yu.cs.com1320.project.impl;
 import edu.yu.cs.com1320.project.Stack;
 
@@ -77,7 +76,7 @@ public class StackImpl<T> implements Stack<T>{
             return this.pointer;
         }
     }
-=======
+
 package edu.yu.cs.com1320.project.impl;
 import edu.yu.cs.com1320.project.Stack;
 
@@ -156,5 +155,4 @@ public class StackImpl<T> implements Stack<T>{
             return this.pointer;
         }
     }
->>>>>>> fd77063a3d4afb76b6777a38f3f83134aeed8ddf
 }
