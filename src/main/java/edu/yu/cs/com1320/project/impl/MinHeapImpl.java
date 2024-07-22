@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 package edu.yu.cs.com1320.project.impl;
 import edu.yu.cs.com1320.project.MinHeap;
 import java.util.NoSuchElementException;
@@ -43,7 +42,7 @@ public class MinHeapImpl<E extends Comparable<E>> extends MinHeap<E> {
     }
 
 }
-=======
+
 package edu.yu.cs.com1320.project.impl;
 import edu.yu.cs.com1320.project.MinHeap;
 import java.util.NoSuchElementException;
@@ -88,4 +87,3 @@ public class MinHeapImpl<E extends Comparable<E>> extends MinHeap<E> {
     }
 
 }
->>>>>>> fd77063a3d4afb76b6777a38f3f83134aeed8ddf
