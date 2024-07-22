@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 package edu.yu.cs.com1320.project;
 
 import java.util.function.Function;
@@ -58,7 +57,7 @@ public class GenericCommand<Target> implements Undoable
     public int hashCode() {
         return target.hashCode();
     }
-=======
+
 package edu.yu.cs.com1320.project;
 
 import java.util.function.Function;
@@ -118,5 +117,4 @@ public class GenericCommand<Target> implements Undoable
     public int hashCode() {
         return target.hashCode();
     }
->>>>>>> fd77063a3d4afb76b6777a38f3f83134aeed8ddf
 }
